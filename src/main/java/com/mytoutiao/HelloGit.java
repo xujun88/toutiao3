@@ -8,7 +8,7 @@ public class HelloGit {
         System.out.println("hello ignore22222");
         System.out.println("hello ignore33333");
         System.out.println("hello ignore444444");
-        System.out.println("hello ignore444444");
+        System.out.println("hello hot-fix");
     }
 }
 
