@@ -10,6 +10,7 @@ public class HelloGit {
         System.out.println("hello ignore444444");
         System.out.println("hello hot-fix");
         System.out.println("本地修改的code 需要push到github上去");
+        System.out.println("还是push一下code感觉一下！！！！！！");
     }
 }
 
